@@ -2,9 +2,9 @@ import numpy
 import glob
 import sys
 
-fileConvertPath = 'C:/Users/Eric Minor/TrackingML/defectTracker/ImageAnnotation'
+fileConvertPath = 'E:/Projects/fake/defectTracker/ImageAnnotation'
 
-mainDir = 'C:/Users/Eric Minor/TrackingML/imageData/annotations/csv'
+mainDir = 'E:/Projects/fake/imageData/annotations/csv'
 #outDir = os.path.join(os.getcwd(),'accumulated');
 
 
